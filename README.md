@@ -19,7 +19,7 @@ Whether you're a financial institution or an individual looking for a loan, AI L
 
 We used Xg Boost Classifier which is a High-performance gradient boosting algorithm for efficient risk prediction.We used Flask for integration of the ML model with the backend of web application.
 
-Following is the Accuracy that we got using this model.
+We got an Accuracy of about 94 percent after training this model.
 - [Accuracy Screenshot](https://drive.google.com/file/d/1XD7mcUdSVfKjrbV9HnNt1xSq8dQB57sV/view?usp=sharing)
 
 ## Web Developement
